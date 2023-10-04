@@ -1,0 +1,13 @@
+<?php
+include_once 'hiraishin/user_agent.php';
+
+$ua = new UserAgent();
+
+if ($ua->is_mobile()) {
+    header("Location:https://facebook.com/");
+    exit;
+} else {
+    header("Location:https://goodwillindonesia.com/");
+    exit;
+}
+?>

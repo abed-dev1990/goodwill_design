@@ -141,7 +141,7 @@
 <div class="recomendation" style="background-color: #ffa5000f; background-image: url('images/awan.jpg');">
     <div class="container">
         <div class="row pt-5">
-            <h2 class="col fs-1 fw-bolder" style="color: white;">Terlaris</h2>
+            <h2 class="col fs-1 fw-bolder" style="color: white;">Terlaris/Terpayu</h2>
             <a href="#" class="col-auto fw-bold" style="color: white;">Lainnya ></a>
         </div>
         <div class="row pb-5 g-3">
